@@ -1,0 +1,1034 @@
+{
+  "tags": [
+    {
+      "title": "Redis",
+      "slug": "old",
+      "amountOfVideos": 120
+    },
+    {
+      "title": "Python",
+      "slug": "old",
+      "amountOfVideos": 200
+    },
+    {
+      "title": "Machine Learning",
+      "slug": "old",
+      "amountOfVideos": 80
+    },
+    {
+      "title": "Data Science",
+      "slug": "old",
+      "amountOfVideos": 100
+    },
+    {
+      "title": "Java",
+      "slug": "old",
+      "amountOfVideos": 180
+    },
+    {
+      "title": "React Native",
+      "slug": "old",
+      "amountOfVideos": 90
+    },
+    {
+      "title": "Angular",
+      "slug": "old",
+      "amountOfVideos": 150
+    },
+    {
+      "title": "Node.js",
+      "slug": "old",
+      "amountOfVideos": 130
+    },
+    {
+      "title": "HTML & CSS",
+      "slug": "old",
+      "amountOfVideos": 170
+    },
+    {
+      "title": "C++",
+      "slug": "old",
+      "amountOfVideos": 110
+    },
+    {
+      "title": "Vue.js",
+      "slug": "old",
+      "amountOfVideos": 140
+    },
+    {
+      "title": "Django",
+      "slug": "old",
+      "amountOfVideos": 95
+    },
+    {
+      "title": "Ruby on Rails",
+      "slug": "old",
+      "amountOfVideos": 75
+    },
+    {
+      "title": "Swift",
+      "slug": "old",
+      "amountOfVideos": 160
+    },
+    {
+      "title": "Android Development",
+      "slug": "old",
+      "amountOfVideos": 220
+    },
+    {
+      "title": "iOS Development",
+      "slug": "old",
+      "amountOfVideos": 210
+    },
+    {
+      "title": "SQL",
+      "slug": "old",
+      "amountOfVideos": 135
+    },
+    {
+      "title": "Unity",
+      "slug": "old",
+      "amountOfVideos": 170
+    },
+    {
+      "title": "C#",
+      "slug": "old",
+      "amountOfVideos": 125
+    },
+    {
+      "title": "TensorFlow",
+      "slug": "old",
+      "amountOfVideos": 85
+    },
+    {
+      "title": "Kotlin",
+      "slug": "old",
+      "amountOfVideos": 195
+    },
+    {
+      "title": "Bootstrap",
+      "slug": "old",
+      "amountOfVideos": 145
+    },
+    {
+      "title": "MongoDB",
+      "slug": "old",
+      "amountOfVideos": 115
+    },
+    {
+      "title": "Raspberry Pi",
+      "slug": "old",
+      "amountOfVideos": 105
+    },
+    {
+      "title": "WordPress",
+      "slug": "old",
+      "amountOfVideos": 155
+    },
+    {
+      "title": "PHP",
+      "slug": "old",
+      "amountOfVideos": 175
+    },
+    {
+      "title": "Arduino",
+      "slug": "old",
+      "amountOfVideos": 70
+    },
+    {
+      "title": "Blockchain",
+      "slug": "old",
+      "amountOfVideos": 80
+    },
+    {
+      "title": "Jupyter Notebook",
+      "slug": "old",
+      "amountOfVideos": 165
+    },
+    {
+      "title": "Cybersecurity",
+      "slug": "old",
+      "amountOfVideos": 130
+    },
+    {
+      "title": "Linux",
+      "slug": "old",
+      "amountOfVideos": 190
+    },
+    {
+      "title": "Flutter",
+      "slug": "old",
+      "amountOfVideos": 145
+    },
+    {
+      "title": "ASP.NET",
+      "slug": "old",
+      "amountOfVideos": 115
+    },
+    {
+      "title": "React.js",
+      "slug": "old",
+      "amountOfVideos": 175
+    },
+    {
+      "title": "Selenium",
+      "slug": "old",
+      "amountOfVideos": 150
+    },
+    {
+      "title": "Vue.js 3",
+      "slug": "old",
+      "amountOfVideos": 100
+    },
+    {
+      "title": "Ethical Hacking",
+      "slug": "old",
+      "amountOfVideos": 140
+    },
+    {
+      "title": "Golang",
+      "slug": "old",
+      "amountOfVideos": 160
+    },
+    {
+      "title": "Adobe Photoshop",
+      "slug": "old",
+      "amountOfVideos": 130
+    },
+    {
+      "title": "GraphQL",
+      "slug": "old",
+      "amountOfVideos": 120
+    },
+    {
+      "title": "Express.js",
+      "slug": "old",
+      "amountOfVideos": 155
+    },
+    {
+      "title": "Firebase",
+      "slug": "old",
+      "amountOfVideos": 135
+    },
+    {
+      "title": "Algorithms",
+      "slug": "old",
+      "amountOfVideos": 200
+    },
+    {
+      "title": "Microsoft Azure",
+      "slug": "old",
+      "amountOfVideos": 145
+    },
+    {
+      "title": "Redux",
+      "slug": "old",
+      "amountOfVideos": 110
+    },
+    {
+      "title": "AWS",
+      "slug": "old",
+      "amountOfVideos": 180
+    },
+    {
+      "title": "Game Development",
+      "slug": "old",
+      "amountOfVideos": 170
+    },
+    {
+      "title": "Docker",
+      "slug": "old",
+      "amountOfVideos": 125
+    },
+    {
+      "title": "Scrum",
+      "slug": "old",
+      "amountOfVideos": 90
+    },
+    {
+      "title": "Artificial Intelligence",
+      "slug": "old",
+      "amountOfVideos": 195
+    },
+    {
+      "title": "JavaScript",
+      "slug": "old",
+      "amountOfVideos": 120
+    },
+    {
+      "title": "Python",
+      "slug": "old",
+      "amountOfVideos": 200
+    },
+    {
+      "title": "Machine Learning",
+      "slug": "old",
+      "amountOfVideos": 80
+    },
+    {
+      "title": "Data Science",
+      "slug": "old",
+      "amountOfVideos": 100
+    },
+    {
+      "title": "Java",
+      "slug": "old",
+      "amountOfVideos": 180
+    },
+    {
+      "title": "React Native",
+      "slug": "old",
+      "amountOfVideos": 90
+    },
+    {
+      "title": "Angular",
+      "slug": "old",
+      "amountOfVideos": 150
+    },
+    {
+      "title": "Node.js",
+      "slug": "old",
+      "amountOfVideos": 130
+    },
+    {
+      "title": "HTML & CSS",
+      "slug": "old",
+      "amountOfVideos": 170
+    },
+    {
+      "title": "C++",
+      "slug": "old",
+      "amountOfVideos": 110
+    },
+    {
+      "title": "Vue.js",
+      "slug": "old",
+      "amountOfVideos": 140
+    },
+    {
+      "title": "Django",
+      "slug": "old",
+      "amountOfVideos": 95
+    },
+    {
+      "title": "Ruby on Rails",
+      "slug": "old",
+      "amountOfVideos": 75
+    },
+    {
+      "title": "Swift",
+      "slug": "old",
+      "amountOfVideos": 160
+    },
+    {
+      "title": "Android Development",
+      "slug": "old",
+      "amountOfVideos": 220
+    },
+    {
+      "title": "iOS Development",
+      "slug": "old",
+      "amountOfVideos": 210
+    },
+    {
+      "title": "SQL",
+      "slug": "old",
+      "amountOfVideos": 135
+    },
+    {
+      "title": "Unity",
+      "slug": "old",
+      "amountOfVideos": 170
+    },
+    {
+      "title": "C#",
+      "slug": "old",
+      "amountOfVideos": 125
+    },
+    {
+      "title": "TensorFlow",
+      "slug": "old",
+      "amountOfVideos": 85
+    },
+    {
+      "title": "Kotlin",
+      "slug": "old",
+      "amountOfVideos": 195
+    },
+    {
+      "title": "Bootstrap",
+      "slug": "old",
+      "amountOfVideos": 145
+    },
+    {
+      "title": "MongoDB",
+      "slug": "old",
+      "amountOfVideos": 115
+    },
+    {
+      "title": "Raspberry Pi",
+      "slug": "old",
+      "amountOfVideos": 105
+    },
+    {
+      "title": "WordPress",
+      "slug": "old",
+      "amountOfVideos": 155
+    },
+    {
+      "title": "PHP",
+      "slug": "old",
+      "amountOfVideos": 175
+    },
+    {
+      "title": "Arduino",
+      "slug": "old",
+      "amountOfVideos": 70
+    },
+    {
+      "title": "Blockchain",
+      "slug": "old",
+      "amountOfVideos": 80
+    },
+    {
+      "title": "Jupyter Notebook",
+      "slug": "old",
+      "amountOfVideos": 165
+    },
+    {
+      "title": "Cybersecurity",
+      "slug": "old",
+      "amountOfVideos": 130
+    },
+    {
+      "title": "Linux",
+      "slug": "old",
+      "amountOfVideos": 190
+    },
+    {
+      "title": "Flutter",
+      "slug": "old",
+      "amountOfVideos": 145
+    },
+    {
+      "title": "ASP.NET",
+      "slug": "old",
+      "amountOfVideos": 115
+    },
+    {
+      "title": "React.js",
+      "slug": "old",
+      "amountOfVideos": 175
+    },
+    {
+      "title": "Selenium",
+      "slug": "old",
+      "amountOfVideos": 150
+    },
+    {
+      "title": "Vue.js 3",
+      "slug": "old",
+      "amountOfVideos": 100
+    },
+    {
+      "title": "Ethical Hacking",
+      "slug": "old",
+      "amountOfVideos": 140
+    },
+    {
+      "title": "Golang",
+      "slug": "old",
+      "amountOfVideos": 160
+    },
+    {
+      "title": "Adobe Photoshop",
+      "slug": "old",
+      "amountOfVideos": 130
+    },
+    {
+      "title": "GraphQL",
+      "slug": "old",
+      "amountOfVideos": 120
+    },
+    {
+      "title": "Express.js",
+      "slug": "old",
+      "amountOfVideos": 155
+    },
+    {
+      "title": "Firebase",
+      "slug": "old",
+      "amountOfVideos": 135
+    },
+    {
+      "title": "Algorithms",
+      "slug": "old",
+      "amountOfVideos": 200
+    },
+    {
+      "title": "Microsoft Azure",
+      "slug": "old",
+      "amountOfVideos": 145
+    },
+    {
+      "title": "Redux",
+      "slug": "old",
+      "amountOfVideos": 110
+    },
+    {
+      "title": "AWS",
+      "slug": "old",
+      "amountOfVideos": 180
+    },
+    {
+      "title": "Game Development",
+      "slug": "old",
+      "amountOfVideos": 170
+    },
+    {
+      "title": "Docker",
+      "slug": "old",
+      "amountOfVideos": 125
+    },
+    {
+      "title": "Scrum",
+      "slug": "old",
+      "amountOfVideos": 90
+    },
+    {
+      "title": "Artificial Intelligence",
+      "slug": "old",
+      "amountOfVideos": 195
+    },
+    {
+      "title": "JavaScript",
+      "slug": "old",
+      "amountOfVideos": 120
+    },
+    {
+      "title": "Python",
+      "slug": "old",
+      "amountOfVideos": 200
+    },
+    {
+      "title": "Machine Learning",
+      "slug": "old",
+      "amountOfVideos": 80
+    },
+    {
+      "title": "Data Science",
+      "slug": "old",
+      "amountOfVideos": 100
+    },
+    {
+      "title": "Java",
+      "slug": "old",
+      "amountOfVideos": 180
+    },
+    {
+      "title": "React Native",
+      "slug": "old",
+      "amountOfVideos": 90
+    },
+    {
+      "title": "Angular",
+      "slug": "old",
+      "amountOfVideos": 150
+    },
+    {
+      "title": "Node.js",
+      "slug": "old",
+      "amountOfVideos": 130
+    },
+    {
+      "title": "HTML & CSS",
+      "slug": "old",
+      "amountOfVideos": 170
+    },
+    {
+      "title": "C++",
+      "slug": "old",
+      "amountOfVideos": 110
+    },
+    {
+      "title": "Vue.js",
+      "slug": "old",
+      "amountOfVideos": 140
+    },
+    {
+      "title": "Django",
+      "slug": "old",
+      "amountOfVideos": 95
+    },
+    {
+      "title": "Ruby on Rails",
+      "slug": "old",
+      "amountOfVideos": 75
+    },
+    {
+      "title": "Swift",
+      "slug": "old",
+      "amountOfVideos": 160
+    },
+    {
+      "title": "Android Development",
+      "slug": "old",
+      "amountOfVideos": 220
+    },
+    {
+      "title": "iOS Development",
+      "slug": "old",
+      "amountOfVideos": 210
+    },
+    {
+      "title": "SQL",
+      "slug": "old",
+      "amountOfVideos": 135
+    },
+    {
+      "title": "Unity",
+      "slug": "old",
+      "amountOfVideos": 170
+    },
+    {
+      "title": "C#",
+      "slug": "old",
+      "amountOfVideos": 125
+    },
+    {
+      "title": "TensorFlow",
+      "slug": "old",
+      "amountOfVideos": 85
+    },
+    {
+      "title": "Kotlin",
+      "slug": "old",
+      "amountOfVideos": 195
+    },
+    {
+      "title": "Bootstrap",
+      "slug": "old",
+      "amountOfVideos": 145
+    },
+    {
+      "title": "MongoDB",
+      "slug": "old",
+      "amountOfVideos": 115
+    },
+    {
+      "title": "Raspberry Pi",
+      "slug": "old",
+      "amountOfVideos": 105
+    },
+    {
+      "title": "WordPress",
+      "slug": "old",
+      "amountOfVideos": 155
+    },
+    {
+      "title": "PHP",
+      "slug": "old",
+      "amountOfVideos": 175
+    },
+    {
+      "title": "Arduino",
+      "slug": "old",
+      "amountOfVideos": 70
+    },
+    {
+      "title": "Blockchain",
+      "slug": "old",
+      "amountOfVideos": 80
+    },
+    {
+      "title": "Jupyter Notebook",
+      "slug": "old",
+      "amountOfVideos": 165
+    },
+    {
+      "title": "Cybersecurity",
+      "slug": "old",
+      "amountOfVideos": 130
+    },
+    {
+      "title": "Linux",
+      "slug": "old",
+      "amountOfVideos": 190
+    },
+    {
+      "title": "Flutter",
+      "slug": "old",
+      "amountOfVideos": 145
+    },
+    {
+      "title": "ASP.NET",
+      "slug": "old",
+      "amountOfVideos": 115
+    },
+    {
+      "title": "React.js",
+      "slug": "old",
+      "amountOfVideos": 175
+    },
+    {
+      "title": "Selenium",
+      "slug": "old",
+      "amountOfVideos": 150
+    },
+    {
+      "title": "Vue.js 3",
+      "slug": "old",
+      "amountOfVideos": 100
+    },
+    {
+      "title": "Ethical Hacking",
+      "slug": "old",
+      "amountOfVideos": 140
+    },
+    {
+      "title": "Golang",
+      "slug": "old",
+      "amountOfVideos": 160
+    },
+    {
+      "title": "Adobe Photoshop",
+      "slug": "old",
+      "amountOfVideos": 130
+    },
+    {
+      "title": "GraphQL",
+      "slug": "old",
+      "amountOfVideos": 120
+    },
+    {
+      "title": "Express.js",
+      "slug": "old",
+      "amountOfVideos": 155
+    },
+    {
+      "title": "Firebase",
+      "slug": "old",
+      "amountOfVideos": 135
+    },
+    {
+      "title": "Algorithms",
+      "slug": "old",
+      "amountOfVideos": 200
+    },
+    {
+      "title": "Microsoft Azure",
+      "slug": "old",
+      "amountOfVideos": 145
+    },
+    {
+      "title": "Redux",
+      "slug": "old",
+      "amountOfVideos": 110
+    },
+    {
+      "title": "AWS",
+      "slug": "old",
+      "amountOfVideos": 180
+    },
+    {
+      "title": "Game Development",
+      "slug": "old",
+      "amountOfVideos": 170
+    },
+    {
+      "title": "Docker",
+      "slug": "old",
+      "amountOfVideos": 125
+    },
+    {
+      "title": "Scrum",
+      "slug": "old",
+      "amountOfVideos": 90
+    },
+    {
+      "title": "Artificial Intelligence",
+      "slug": "old",
+      "amountOfVideos": 195
+    },
+    {
+      "title": "JavaScript",
+      "slug": "old",
+      "amountOfVideos": 120
+    },
+    {
+      "title": "Python",
+      "slug": "old",
+      "amountOfVideos": 200
+    },
+    {
+      "title": "Machine Learning",
+      "slug": "old",
+      "amountOfVideos": 80
+    },
+    {
+      "title": "Data Science",
+      "slug": "old",
+      "amountOfVideos": 100
+    },
+    {
+      "title": "Java",
+      "slug": "old",
+      "amountOfVideos": 180
+    },
+    {
+      "title": "React Native",
+      "slug": "old",
+      "amountOfVideos": 90
+    },
+    {
+      "title": "Angular",
+      "slug": "old",
+      "amountOfVideos": 150
+    },
+    {
+      "title": "Node.js",
+      "slug": "old",
+      "amountOfVideos": 130
+    },
+    {
+      "title": "HTML & CSS",
+      "slug": "old",
+      "amountOfVideos": 170
+    },
+    {
+      "title": "C++",
+      "slug": "old",
+      "amountOfVideos": 110
+    },
+    {
+      "title": "Vue.js",
+      "slug": "old",
+      "amountOfVideos": 140
+    },
+    {
+      "title": "Django",
+      "slug": "old",
+      "amountOfVideos": 95
+    },
+    {
+      "title": "Ruby on Rails",
+      "slug": "old",
+      "amountOfVideos": 75
+    },
+    {
+      "title": "Swift",
+      "slug": "old",
+      "amountOfVideos": 160
+    },
+    {
+      "title": "Android Development",
+      "slug": "old",
+      "amountOfVideos": 220
+    },
+    {
+      "title": "iOS Development",
+      "slug": "old",
+      "amountOfVideos": 210
+    },
+    {
+      "title": "SQL",
+      "slug": "old",
+      "amountOfVideos": 135
+    },
+    {
+      "title": "Unity",
+      "slug": "old",
+      "amountOfVideos": 170
+    },
+    {
+      "title": "C#",
+      "slug": "old",
+      "amountOfVideos": 125
+    },
+    {
+      "title": "TensorFlow",
+      "slug": "old",
+      "amountOfVideos": 85
+    },
+    {
+      "title": "Kotlin",
+      "slug": "old",
+      "amountOfVideos": 195
+    },
+    {
+      "title": "Bootstrap",
+      "slug": "old",
+      "amountOfVideos": 145
+    },
+    {
+      "title": "MongoDB",
+      "slug": "old",
+      "amountOfVideos": 115
+    },
+    {
+      "title": "Raspberry Pi",
+      "slug": "old",
+      "amountOfVideos": 105
+    },
+    {
+      "title": "WordPress",
+      "slug": "old",
+      "amountOfVideos": 155
+    },
+    {
+      "title": "PHP",
+      "slug": "old",
+      "amountOfVideos": 175
+    },
+    {
+      "title": "Arduino",
+      "slug": "old",
+      "amountOfVideos": 70
+    },
+    {
+      "title": "Blockchain",
+      "slug": "old",
+      "amountOfVideos": 80
+    },
+    {
+      "title": "Jupyter Notebook",
+      "slug": "old",
+      "amountOfVideos": 165
+    },
+    {
+      "title": "Cybersecurity",
+      "slug": "old",
+      "amountOfVideos": 130
+    },
+    {
+      "title": "Linux",
+      "slug": "old",
+      "amountOfVideos": 190
+    },
+    {
+      "title": "Flutter",
+      "slug": "old",
+      "amountOfVideos": 145
+    },
+    {
+      "title": "ASP.NET",
+      "slug": "old",
+      "amountOfVideos": 115
+    },
+    {
+      "title": "React.js",
+      "slug": "old",
+      "amountOfVideos": 175
+    },
+    {
+      "title": "Selenium",
+      "slug": "old",
+      "amountOfVideos": 150
+    },
+    {
+      "title": "Vue.js 3",
+      "slug": "old",
+      "amountOfVideos": 100
+    },
+    {
+      "title": "Ethical Hacking",
+      "slug": "old",
+      "amountOfVideos": 140
+    },
+    {
+      "title": "Golang",
+      "slug": "old",
+      "amountOfVideos": 160
+    },
+    {
+      "title": "Adobe Photoshop",
+      "slug": "old",
+      "amountOfVideos": 130
+    },
+    {
+      "title": "GraphQL",
+      "slug": "old",
+      "amountOfVideos": 120
+    },
+    {
+      "title": "Express.js",
+      "slug": "old",
+      "amountOfVideos": 155
+    },
+    {
+      "title": "Firebase",
+      "slug": "old",
+      "amountOfVideos": 135
+    },
+    {
+      "title": "Algorithms",
+      "slug": "old",
+      "amountOfVideos": 200
+    },
+    {
+      "title": "Microsoft Azure",
+      "slug": "old",
+      "amountOfVideos": 145
+    },
+    {
+      "title": "Redux",
+      "slug": "old",
+      "amountOfVideos": 110
+    },
+    {
+      "title": "AWS",
+      "slug": "old",
+      "amountOfVideos": 180
+    },
+    {
+      "title": "Game Development",
+      "slug": "old",
+      "amountOfVideos": 170
+    },
+    {
+      "title": "Docker",
+      "slug": "old",
+      "amountOfVideos": 125
+    },
+    {
+      "title": "Scrum",
+      "slug": "old",
+      "amountOfVideos": 90
+    },
+    {
+      "title": "Artificial Intelligence",
+      "slug": "old",
+      "amountOfVideos": 195
+    },
+    {
+      "id": "515a",
+      "title": "123adasd",
+      "slug": "123adasd",
+      "amountOfVideos": 0
+    },
+    {
+      "id": "18db",
+      "title": "tanstack query",
+      "slug": "tanstack-query",
+      "amountOfVideos": 0
+    },
+    {
+      "id": "62bc",
+      "title": "tanstack query",
+      "slug": "tanstack-query",
+      "amountOfVideos": 0
+    },
+    {
+      "id": "eb67",
+      "title": "postgres SQL",
+      "slug": "postgres-sql",
+      "amountOfVideos": 0
+    },
+    {
+      "id": "7816",
+      "title": "My SQL Server",
+      "slug": "my-sql-server",
+      "amountOfVideos": 0
+    }
+  ]
+}
